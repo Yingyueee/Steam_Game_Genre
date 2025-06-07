@@ -5,4 +5,4 @@ The data scraped from this project can also be used to analysis questions like u
 
 Contributors to this project:
 
-BAI Haozhe, JIANG Yingyue, LIU Ruohan, WAN Spring, ZHAO Yuanjie,
+BAI Haozhe, JIANG Yingyue, LIU Ruohan, WAN Shuo, ZHAO Yuanjie,
